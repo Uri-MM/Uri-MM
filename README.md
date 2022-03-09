@@ -1,5 +1,5 @@
 👋 Hi, I’m Uri Meir-Margalit (@Uri-MM)
-- 👀 I’m interested in data analysis and currently looking for an open position.
+- 👀 I’m interested in data analysis and QA and currently looking for an open junior position.
 - 💞️ I’ll be thankful for job opportunities.
 - 📫 You can reach me at:  linkedin.com/in/urimm
 
